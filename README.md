@@ -62,3 +62,4 @@ def snake_game():
         else:
             snake.pop(0)
     print("Final score:",score)
+snake_game()
